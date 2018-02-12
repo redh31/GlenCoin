@@ -1,0 +1,9 @@
+Building GlenCoin
+
+See doc/readme-qt.rst for instructions on building GlenCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlenCoin.
+
+See doc/build-*.txt for instructions on building glencoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlenCoin.
