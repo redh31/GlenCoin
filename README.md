@@ -1,0 +1,2 @@
+# GlenCoin
+The best crypto
